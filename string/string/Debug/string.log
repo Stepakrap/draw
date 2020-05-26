@@ -1,0 +1,7 @@
+﻿  string.cpp
+C:\Users\admin\source\repos\string\string\string.cpp(15,1): warning C4302: приведение типов: усечение из "void *" к "char"
+C:\Users\admin\source\repos\string\string\string.cpp(29,1): warning C4302: приведение типов: усечение из "void *" к "char"
+C:\Users\admin\source\repos\string\string\string.cpp(43,1): warning C4302: приведение типов: усечение из "void *" к "char"
+C:\Users\admin\source\repos\string\string\string.cpp(99,26): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\string\string\string.cpp(103): warning C4715: str::operator[]: значение возвращается не при всех путях выполнения
+  string.vcxproj -> C:\Users\admin\source\repos\string\Debug\string.exe
